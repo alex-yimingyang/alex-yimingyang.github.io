@@ -1,0 +1,80 @@
+primary_name: "Yiming Yang"
+secondary_name: ""
+navbar_name: "Yiming Yang"
+
+positions:
+- name: Co-founder
+- name: ZEAI
+  url: https://www.zeai.ai/
+  logo: /assets/images/badges/zeai.png  # Logo is optional
+
+
+email: "alex791186@gmail.com"
+gscholar: MOUhNMAAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
+github: alex-yimingyang
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+linkedin: alex-yiming-yang
+cv_link: /assets/files/CV_YimingYang.pdf
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a Co-founder and AI Scientist at ZEAI, where I am primarily responsible for the AI research and technical development.
+    My research interests lie in computer vision, multimodal learning, and generative AI.
+  </p>
+  <p>
+    I am particularly interested in text-driven storybook generation, with a focus on maintaining character consistency and narrative coherence across multiple scenes and pages.
+    My current work explores how to integrate vision–language models, generative models, and structured narrative representations to enable controllable and coherent multimodal content generation.
+  </p>
+
+portrait_url: /assets/images/photos/yym.jpeg
+portrait_caption: >-
+  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+education:
+- name: Fudan University
+  # logo: /assets/images/badges/MIT_Social_circle.png
+  position: ME in Software Engineering
+  date: Sep. 2022 - Jun. 2025
+- name: University of Southampton
+  # logo: /assets/images/badges/PKU_red.png
+  position: MS in Wireless Communication
+  date: Sep. 2015 - Sep. 2016
+- name: De Montfort University
+  # logo: /assets/images/badges/PKU_red.png
+  position: BE in Electronic Engineering
+  date: Aug. 2014 - Jun. 2015
+- name: Jinling Institute of Technology
+# logo: /assets/images/badges/PKU_red.png
+  position: BE in Communication Engineering
+  date: Sep. 2011 - Jul. 2014
+
+experience:
+- name: Shaodong University
+  # logo: /assets/images/badges/PKU_red.png
+  position: Research Assistant (Remote)
+  date: Mar. 2025 - Present
+- name: Shenku Inc.
+  # logo: /assets/images/badges/PKU_red.png
+  position: Machine Learning Engineer
+  date: Mar. 2022 - Feb. 2024
+- name: DeepBlue Inc.
+  # logo: /assets/images/badges/PKU_red.png
+  position: Implementation Engineer
+  date: Jan. 2019 - Apr. 2021
+- name: DS Inc.
+  # logo: /assets/images/badges/PKU_red.png
+  position: Delivery Engineer
+  date: Nov. 2016 - Dec. 2018
+
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
