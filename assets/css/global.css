@@ -125,3 +125,44 @@ div.lazy {
 .publication-title > a:focus {
     color: #1a73e8;
 }
+
+/* ===== MapMyVisitors styled block (like the screenshot) ===== */
+.mmv-container{
+    width: 520px;           /* 控制整体大小 */
+    margin: 30px auto 0;    /* 居中 */
+    text-align: center;
+}
+
+.mmv-map{
+    position: relative;
+    overflow: hidden;       /* 防止缩放溢出 */
+    border-radius: 6px;     /* 可选：圆角 */
+}
+
+/* 缩小地图（按需调 0.5~0.8） */
+.mmv-map #mapmyvisitors{
+    display: block;
+}
+.mmv-map{
+    transform: scale(0.75);
+    transform-origin: top center;
+    margin-bottom: -80px; 
+}
+
+/* 标题叠在地图上方 */
+.mmv-title{
+    position: relative;
+    top: 40px;              /* 控制标题覆盖位置，按需调 */
+    z-index: 10;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.2;
+    pointer-events: none;   /* 不挡住地图交互 */
+}
+
+/* 底部灰色版权字 */
+.mmv-footer{
+    margin-top: 30px;
+    color: #999;
+    font-size: 0.9rem;
+}
